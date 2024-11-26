@@ -9,6 +9,7 @@ ArtTune is a comprehensive audio tuning guide for optimizing your audio settings
 - [Installation Steps](#installation-steps)
 - [Configuration Steps](#configuration-steps)
 - [Testing and Final Adjustments](#testing-and-final-adjustments)
+- [Additional Resources](#additional-resources)
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
 
@@ -31,24 +32,40 @@ Before you begin, ensure you have the following:
    - Remove any existing audio tuning software to prevent conflicts.
 
 2. **Download Required Applications**
-   - [App Pack Download Link](#) *(Replace with actual link)*
-   - Extract the downloaded zip file.
+   - **Install Package (All-in-One):**
+     - [Download Install Package](https://bit.ly/AIW_BO6_InstallPkg)
+   - **Separate Applications (if you prefer individual downloads):**
+     - **Hi-Fi Cable:** [Download](https://vb-audio.com/Cable/index.htm)
+     - **VoiceMeeter:** [Download](https://vb-audio.com/Voicemeeter/)
+     - **Equalizer APO:** [Download](https://sourceforge.net/projects/equalizerapo/)
+     - **Peace Equalizer:** [Download](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
+     - **HeSuVi:** [Download](https://sourceforge.net/projects/hesuvi/)
+     - **ReaPlugs:** [Download](https://www.reaper.fm/reaplugs/)
+     - **Loudness EQ Script:** [Download](https://github.com/Falcosc/enable-loudness-eq)
+
+   - **Configs Only (if you've downloaded separate apps):**
+     - [Download Config Files](https://bit.ly/AIW_BO6_ConfigsOnly)
 
 3. **Install Applications in Order**
-   - Hi-Fi Cable
-   - VoiceMeeter
-   - Equalizer APO
-   - Peace Equalizer
-   - HeSuVi
-   - ReaPlugs
+   - **Hi-Fi Cable**
+   - **VoiceMeeter**
+   - **Equalizer APO**
+   - **Peace Equalizer**
+   - **HeSuVi**
+   - **ReaPlugs**
 
 ## Configuration Steps
 
 1. **Enable Loudness Equalization**
    - Run the LoudEQEnable script for Hi-Fi Cable.
+     - [Loudness EQ Script](https://github.com/Falcosc/enable-loudness-eq)
 
 2. **Configure Equalizer APO and Peace**
    - Load the base profile and import your headset's specific EQ settings.
+   - Use **GadgetryTech's Squiglink** to find your headset/IEM EQ profile:
+     - [GadgetryTech's Squiglink](https://gadgetrytech.squig.link/)
+   - If your headset/IEM is not listed, refer to the **IEM Tier List**:
+     - [IEM Tier List](https://bit.ly/AIW-IEM-List)
 
 3. **Set Up VoiceMeeter**
    - Configure hardware inputs and outputs.
@@ -67,13 +84,24 @@ Before you begin, ensure you have the following:
 - Adjust HeSuVi and volume settings as needed.
 - Refer to the guide for troubleshooting tips.
 
+## Additional Resources
+
+- **Install Package (All-in-One):**
+  - [Download Install Package](https://bit.ly/AIW_BO6_InstallPkg)
+- **Configs Only:**
+  - [Download Config Files](https://bit.ly/AIW_BO6_ConfigsOnly)
+- **GadgetryTech's Squiglink:**
+  - [GadgetryTech's Squiglink](https://gadgetrytech.squig.link/)
+- **IEM Tier List:**
+  - [IEM Tier List](https://bit.ly/AIW-IEM-List)
+
 ## Credits
 
 All credit for this guide goes to [**ArtIsWar**](https://linktr.ee/art_is_war), the original creator and developer of the ArtTune audio tuning method.
 
 - **YouTube Channel**: [ArtIsWar](https://www.youtube.com/@ArtIsWar)
 - **Twitch**: [\_artiswar](https://www.twitch.tv/_artiswar)
-- **Social Links**: [Linktr.ee/art_is_war](https://linktr.ee/art_is_war)
+- **Social Links**: [linktr.ee/art_is_war](https://linktr.ee/art_is_war)
 
 ## Disclaimer
 
