@@ -116,10 +116,10 @@ This guide will help you optimize your audio settings for Call of Duty: Black Op
 
 - **Open Peace Equalizer:**
   - Run **Peace** and select **"Full interface"**.
-  - Load the profile **"ArtIsWar BO6 VST Base"**.
+  - Load the profile **"AIW BO6 VST Base"**.
 
 - **Import Your Headset's EQ Settings:**
-  - Visit **Squiglink** or **AutoEQ** websites.
+  - Visit [**Squiglink**](https://gadgetrytech.squig.link/) or **AutoEQ** websites.
   - Find your specific headset/IEM model.
   - Export the EQ settings as a file.
   - In Peace, click the **Import** button.
