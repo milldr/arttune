@@ -35,7 +35,7 @@ This guide will help you optimize your audio settings for Call of Duty: Black Op
 
 **Timestamp:** [00:07:00](https://www.youtube.com/watch?v=brFUbWlnbao&t=420s)
 
-- **Download the App Pack** from the provided Google Drive link or individual websites.
+- **Download the App Pack** from the provided [Google Drive link](https://bit.ly/AIW_BO6_InstallPkg) or individual websites.
 - **Extract** the downloaded zip file.
 - **Install applications in the following order:**
 
